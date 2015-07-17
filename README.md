@@ -22,3 +22,9 @@ Test Repo ...for initialising/checking new VM
 ### Resources
 [Docker](https://www.docker.com/)  
 [Vagrant] (https://www.vagrantup.com/)
+
+
+### Docker Links
+[Docker Vs VMs][1]
+
+[1]: http://devops.com/2014/11/24/docker-vs-vms/
