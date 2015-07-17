@@ -1,5 +1,18 @@
-# Test2
+# Head 1
 Test Repo ...for initialising/checking new VM
-## Test 2
+## Head 2
 
-### Test3
+
+* Italicised Text *
+** Bold Text**
+
+### Head 3
+- UL 1
+- UL 2
+- UL 3
+- 
+#### Head 4
+1. OLI 1
+2. OLI 2
+4. OLI 3
+5. OLI 4
