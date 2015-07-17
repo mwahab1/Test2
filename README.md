@@ -17,3 +17,8 @@ Test Repo ...for initialising/checking new VM
 2. OLI 2
 4. OLI 3
 5. OLI 4
+
+
+### Resources
+[Docker](https://www.docker.com/)
+[Vagrant] (https://www.vagrantup.com/)
