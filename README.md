@@ -20,5 +20,5 @@ Test Repo ...for initialising/checking new VM
 
 
 ### Resources
-[Docker](https://www.docker.com/)
+[Docker](https://www.docker.com/)  
 [Vagrant] (https://www.vagrantup.com/)
